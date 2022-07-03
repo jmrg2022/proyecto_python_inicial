@@ -1,4 +1,5 @@
 # _**Proyecto Python Inicial**_
+![descripcion](/CajaChica.png)
 En el presente proyecto inicialmente tomaría un archivo excel, al cual lo convertiría a .csv en donde está el movimiento de caja diario de un sindicato, con estos datos que están ya primeramente organizados en INGRESOS y EGRESOS por día, realizaría el cierre de caja correspondiente, como así también podría agrupar entre los tipos de comprobantes que emite la entidad.
 Además, accederemos al informe Resumen de caja, donde podremos ver el total de operaciones de ingresos, egresos de acuerdo a la fecha seleccionada, realizadas a través de la consulta.
 Podremos filtrar los resultados resumen, podremos filtrar el informe por intervalos de fechas.
